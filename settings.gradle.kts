@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Vocabra"
 include(":app")
+include(":core")
+include(":core-ui")
+include(":add_card")
